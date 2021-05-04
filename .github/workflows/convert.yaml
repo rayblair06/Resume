@@ -1,0 +1,25 @@
+name: convert
+
+on:
+  push:
+
+jobs:
+  converttopdf:
+    name: Build PDF
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Build Resume
+        run: |-
+          npm install -g md-to-pdf
+          md-to-pdf README.md --pdf-options '{ "format": "a4", "margin": "10mm 10mm", "printBackground": true, "preferCSSPageSize": true }'
+          echo "PDF Generated"
+
+      - name: Commit Resume PDF
+        run: |
+          git config --global user.name 'Ray Blair'
+          git config --global user.email 'rayblair06@users.noreply.github.com'
+          git add -A
+          git commit -am "Resume PDF Generated"
+          git push
