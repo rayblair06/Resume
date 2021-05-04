@@ -1,0 +1,19 @@
+{
+  "name": "resume",
+  "version": "1.0.0",
+  "description": "--- dest: ./README.pdf stylesheet:   - ./style.css pdf_options:   format: a4   margin: 5mm 5mm   printBackground: true ---",
+  "main": "index.js",
+  "scripts": {
+    "generate": "md-to-pdf Resume.md",
+    "lint": "npx prettier '**/*.md' --check",
+    "format": "npx prettier '**/*.md' --write"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "md-to-pdf": "^5.2.4"
+  },
+  "devDependencies": {
+    "prettier": "3.2.5"
+  }
+}

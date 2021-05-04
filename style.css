@@ -1,0 +1,73 @@
+body {
+  font-family: "Calibri", "Arial", "Helvetica", sans-serif;
+  font-size: 12px;
+}
+
+.header {
+  text-align: center;
+}
+
+.header a {
+  color: #3590ae;
+  text-decoration: none;
+}
+
+a {
+  color: #000;
+  text-decoration: none;
+}
+
+h1 {
+  font-size: 23px;
+}
+
+h2 {
+  margin: 8px 0 4px 0;
+  padding: 0;
+  font-size: 18px;
+  border-bottom: 1px solid #ddd;
+}
+
+p {
+  margin: 6px 0 4px 0;
+  padding: 0;
+}
+
+ul,
+ol {
+  margin-top: 4px;
+  margin-bottom: 4px;
+  padding-top: 0;
+  padding-bottom: 0;
+}
+
+li {
+  margin-top: 4px;
+  margin-bottom: 4px;
+}
+
+table {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  border-collapse: collapse;
+  table-layout: fixed;
+}
+
+table,
+th,
+td {
+  border: none;
+}
+
+table td:nth-child(1),
+table th:nth-child(1) {
+  text-align: left;
+  font-weight: normal;
+}
+
+table td:nth-child(2),
+table th:nth-child(2) {
+  text-align: right;
+  font-weight: normal;
+}
