@@ -25,18 +25,18 @@ Aug 2021 - Present
 
 I have worked with various clients from different industries such as eCommerce, financial services and recruitment, where I have worked as a Technical Consultant, Lead Engineer and Key Engineer.
 
-- Prepared technical documentation and architecture for new initiatives.
-- Implemented new features and supported new initatives.
-- Supported and monitored services.
-- Provided technical consultations on building of new features.
-- Worked as developer, taking responsibility of legacy microservice applications to upgrade and support their continuing development.
-- Created and executed strategy plans for improving code standards, such as creating test and static analysis coverage, improving coding style guidelines and creating technical documentation.
-- Worked closely with client product manager to implement new features.
-- Reported and fixed security issues related to frameworks and dependencies.
-- Participated with client team in sprint planning and refinement sessions.
-- Collaborated with client team's SREs in implementing a CI/CD pipeline to build, test and deploy application.
-- Knowledge transfer and mentoring client team.
-- Implementing and upholding industry best practice sas coding, development and operational standards and ensuring supportability, scalability and security best practices are met.
+    - Prepared technical documentation and architecture for new initiatives.
+    - Implemented new features and supported new initatives.
+    - Supported and monitored services.
+    - Provided technical consultations on building of new features.
+    - Worked as developer, taking responsibility of legacy microservice applications to upgrade and support their continuing development.
+    - Created and executed strategy plans for improving code standards, such as creating test and static analysis coverage, improving coding style guidelines and creating technical documentation.
+    - Worked closely with client product manager to implement new features.
+    - Reported and fixed security issues related to frameworks and dependencies.
+    - Participated with client team in sprint planning and refinement sessions.
+    - Collaborated with client team's SREs in implementing a CI/CD pipeline to build, test and deploy application.
+    - Knowledge transfer and mentoring client team.
+    - Implementing and upholding industry best practice sas coding, development and operational standards and ensuring supportability, scalability and security best practices are met.
 
 Apr 2020 - Aug 2021
 :   **[W8R Ltd](https://w8r.app), Head of Software Development**
