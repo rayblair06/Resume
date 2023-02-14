@@ -60,23 +60,6 @@ The Utility Supplier is a commercial energy broker that aims to help UK business
     - Provide additional leader support
     - Train in-house development team
 
-Feb 2019 - Apr 2020
-:   **[The Utility Supplier](https://theutilitysupplier.com), Developer**
-
-    - Build and manage various in-house utility projects such as CRM and SAAS platform
-    - Built and supported various services within their CRM system that interacted with external APIs such as eSignature software and various utility data tools
-    - Planned and built their sister company's utility SaaS platform, which included various utility automated and bespoke pricing tools, electronic agreements software, and business support tools
-    
-Sept 2019 - Apr 2020
-:   **[Codeplayground.io](https://codeplayground), Lead Developer**
-July 2017 - Sept 2019
-:   **Developer**
-
-Codeplayground.io offers a complete IT solution from DESIGN through DEVELOPMENT to DELIVERING you a fantastic finished product. Merged into W8R Ltd in April 2020.
-
-    - Built and implemented digital solutions for small businesses, this included building bespoke web application using PHP and Javascript, most notably within the Laravel and VueJS frameworks, providing communication solutions with FreePBX and building cross platform android and ios applications using Cordova.
-    - Led, mentored and supported a small team of developers
-
 <div class="page-break"></div>
 
 Education
