@@ -26,6 +26,7 @@ Newcastle Upon Tyne, England, UK
 - Led the development of hospitality software from idea to execution in 4 months, scaling up to 500+ venues with over 700,000 users.
 - Utilised machine learning algorithms to create a branding pipeline that saved the business millions.
 - Developed high-quality UI components that meet strict design requirements, with considerations for SEO, accessibility, and performance.
+- Won a Hackathon at EPAM Systems for contributions to an AI-driven healthcare project.
 - Performed in various local shows as a drummer with my band.
 
 ## Work Experience
