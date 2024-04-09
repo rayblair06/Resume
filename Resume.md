@@ -79,7 +79,7 @@ My efforts at W8R centered on delivering superior software solutions that added 
 
 |                  |                        |
 | ---------------- | ---------------------- |
-| <u>Developer</u> | _Sept 2019 - Apr 2020_ |
+| <u>Developer</u> | _Jul 2017 - Sept 2019_ |
 
 ## Education
 
@@ -91,12 +91,12 @@ My efforts at W8R centered on delivering superior software solutions that added 
 
 ## Skills
 
-**Languages and Tools:** Apache, BitBucket, CapacitorJS, Cordova, FreePBX, Git, Github, Javascript, Nginx, Node, NPM, PHP, Python, SQL, Vagrant, Vite, Webpack, Yarn.
+**Languages and Tools:** Apache, BitBucket, CapacitorJS, ChatGPT, Composer, Cordova, CSS, FreePBX, Kafka, Git, GitHub, HTML, Javascript, Jenkins, Langchain, Nginx, Node.js, NPM, Pinia, PHP, PHPUnit, Python, RabbitMQ, Redis, Vue.js Router, Vite, Webpack, Yarn.
 
-**Frameworks:** Bootstrap, Laravel, Next.js, Nuxt.js, React.js, SlimPHP, Solid.js, Symfony, Tailwind, Vue.js.
+**Frameworks:** Bootstrap, Express.js, jQuery, Laravel, Next.js, Nuxt.js, React.js, SlimPHP, Solid.js, Symfony, Tailwind CSS, Vue.js.
 
-**Databases:** MariaDB, MySQL, Postgres.
+**Data:** Algolia, Datadog, Elasticsearch, Kibana, Google Big Query, Grafana, MariaDB, MongoDB, MySQL, SQL, Postgres, VectorDB.
 
-**DevOps / Server Administration:** AWS, Azure, AzureDevOps, Bash, CI/CD, DigitalOcean, Docker, GCP, Github Actions, Jira, Linux, Raspberry PI, Ubuntu.
+**DevOps / Server Administration:** AWS, Azure, AzureDevOps, Bash, Containerization, CI/CD, DigitalOcean, Docker, GCP, Github Actions, Jira, Linux, MacOS, Microsoft Windows, pip, Raspberry PI, Serverless, SSH, Ubuntu, Vagrant.
 
-**Softskills:** Agile, Project Management, Scrum, Software Architecture, Software Design, TDD, Team Lead.
+**Softskills:** Agile, Artifical Intelligence, Design Patterns, Domain-Driven Design (DDD), Event-Driven Architecture, Event Sourcing, Leadership, Mentoring, Project Management, Scrum, Software Architecture, Security, Software Design, Test-Driven Development (TDD).
