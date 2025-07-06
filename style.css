@@ -1,73 +1,86 @@
 body {
   font-family: "Calibri", "Arial", "Helvetica", sans-serif;
   font-size: 11px;
+  line-height: 1.5;
+  color: #000;
+  margin: 0;
+  padding: 0;
 }
 
 .header {
   text-align: center;
+  margin-bottom: 20px;
 }
 
 .header a {
   color: #3590ae;
   text-decoration: none;
+  font-weight: 500;
 }
 
 a {
-  color: #000;
+  color: inherit;
   text-decoration: none;
 }
 
 h1 {
-  font-size: 23px;
+  font-size: 26px;
+  margin: 0 0 8px 0;
+  font-weight: bold;
 }
 
 h2 {
-  margin: 8px 0 4px 0;
-  padding: 0;
-  font-size: 18px;
-  border-bottom: 1px solid #ddd;
+  font-size: 16px;
+  margin: 16px 0 6px 0;
+  padding-bottom: 4px;
+  border-bottom: 1px solid #ccc;
+  font-weight: 600;
 }
 
 p {
-  margin: 6px 0 6px 0;
+  margin: 4px 0;
   padding: 0;
 }
 
 ul,
 ol {
-  margin-top: 4px;
-  margin-bottom: 4px;
-  padding-top: 0;
-  padding-bottom: 0;
+  margin: 6px 0 6px 20px;
+  padding: 0;
 }
 
 li {
-  margin-top: 4px;
-  margin-bottom: 4px;
+  margin: 4px 0;
 }
 
 table {
-  margin: 0;
-  padding: 0;
   width: 100%;
   border-collapse: collapse;
+  margin-top: 8px;
+  margin-bottom: 8px;
   table-layout: fixed;
-}
-
-table,
-th,
-td {
-  border: none;
 }
 
 table td:nth-child(1),
 table th:nth-child(1) {
   text-align: left;
-  font-weight: normal;
+  font-weight: bold;
+  padding-right: 8px;
+  vertical-align: top;
 }
 
 table td:nth-child(2),
 table th:nth-child(2) {
   text-align: right;
   font-weight: normal;
+  white-space: nowrap;
+}
+
+table td {
+  padding: 2px 0;
+}
+
+@media print {
+  a[href]:after {
+    content: "";
+  }
 }

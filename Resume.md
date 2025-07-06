@@ -1,5 +1,5 @@
 ---
-dest: ./Resume.pdf
+dest: ./RayBlair_Resume.pdf
 stylesheet:
   - ./style.css
 pdf_options:
@@ -19,6 +19,10 @@ pdf_options:
 Newcastle Upon Tyne, England, UK
 
 </div>
+
+## Profile
+
+Experienced Lead Software Engineer with 9+ years in full-stack development, DevOps, and technical leadership. Known for delivering scalable, secure platforms under pressure and mentoring cross-functional teams. Passionate about driving quality through automation, observability, and continuous improvement. Currently focused on building cloud-native analytics systems for customer insight at Wordnerds.ai.
 
 ## Career Highlights
 
@@ -51,52 +55,44 @@ My focus is on empowering teams to deliver maintainable, scalable systems while 
 |                                          |                       |
 | ---------------------------------------- | --------------------- |
 | **[EPAM Systems](https://www.epam.com)** |                       |
-| <u>Lead Software Engineer</u>            | _Aug 2021 - Jul 2024_ |
+| <u>Lead Software Engineer</u>            | _Aug 2021 – Jul 2024_ |
 
-As a technical consultant and lead engineer, I've served clients across eCommerce, financial services, and recruitment sectors. My role has encompassed:
+As a technical consultant and lead engineer, I served clients in eCommerce, financial services, and recruitment:
 
-- Drafting technical documentation and architecture for new projects.
-- Implementing features and offering technical advice, while collaborating with client teams and product managers.
-- Developing full-stack applications with PHP and Javascript, focusing on best practices, scalability, maintainability, and security.
-- Ensuring performance, accessibility, SEO, and compliance through profiling and quality checks.
-- Managing service support and security issue resolution.
-- Leading initiatives to enhance code standards, including testing, static analysis, and documentation improvements.
-- Collaborating on CI/CD pipeline development for efficient building, testing, and deployment.
-- Mentoring client teams on best practices in coding and operations, and leading knowledge transfer sessions.
-
-My contributions are dedicated to delivering top-tier technical solutions, prioritising best practices, security, and scalability.
+- Delivered technical architecture and implementation plans for scalable full-stack systems.
+- Developed high-performance PHP and JavaScript applications, focused on security, accessibility, and maintainability.
+- Drove performance profiling, static analysis, and quality assurance across multiple teams.
+- Improved CI/CD workflows and resolved critical service support/security issues.
+- Mentored client developers and led knowledge-sharing sessions on code quality and engineering best practices.
 
 |                                     |                       |
 | ----------------------------------- | --------------------- |
 | **[W8R Ltd](https://w8r.app)**      |                       |
-| <u>Head of Software Development</u> | _Apr 2020 - Aug 2021_ |
+| <u>Head of Software Development</u> | _Apr 2020 – Aug 2021_ |
 
-At W8R Ltd, a SaaS platform serving the hospitality industry, my role was pivotal in:
+Directed technology strategy and software delivery for a hospitality SaaS platform:
 
-- Crafting and executing technology strategies and infrastructure plans for W8R's growth.
-- Developing strategic plans for in-house projects to enhance the platform’s functionality and user experience.
-- Ensuring project milestones were met on time and within budget.
-- Leading the software development team towards achieving coding standards and project goals.
-- Architecting projects to optimize performance, security, and scalability.
-
-My efforts at W8R centered on delivering superior software solutions that added value for our customers and fostered the platform's success, leading to significant enhancements in functionality and user experience.
+- Architected high-performance systems to meet scaling demands and tight deadlines.
+- Oversaw delivery of critical features aligned with business growth.
+- Mentored engineers, enforced coding standards, and ensured milestone success.
+- Elevated infrastructure, deployment pipelines, and long-term product viability.
 
 |                                                            |                       |
 | ---------------------------------------------------------- | --------------------- |
 | **[The Utility Supplier](https://theutilitysupplier.com)** |                       |
 | <u>Technical Consultant</u>                                | _Apr 2020 – Aug 2021_ |
 
-Supported and led in-house software initiatives at a commercial energy broker. Focus areas included:
+Supported and led in-house software initiatives at a commercial energy broker:
 
-- Shaping and executing strategic development plans for scalable, secure internal platforms.
-- Mentoring the dev team and fostering a culture of continuous learning and high standards.
-- Advising leadership on aligning tech direction with business objectives.
+- Shaped and executed strategic development plans for scalable, secure internal platforms.
+- Mentored the dev team and fostered a culture of continuous learning and high standards.
+- Advised leadership on aligning tech direction with business objectives.
 
 |                  |                       |
 | ---------------- | --------------------- |
 | <u>Developer</u> | _Feb 2019 – Apr 2020_ |
 
-Owned development of internal CRM tools and spearheaded Qube Direct — a utility SaaS platform offering automated pricing and agreement solutions.
+Owned development of internal CRM tools and led the launch of Qube Direct — a utility SaaS platform:
 
 - Built custom APIs and integrated third-party services to streamline operations.
 - Launched Qube Direct from concept to MVP, enabling sales automation and market differentiation.
@@ -107,10 +103,10 @@ Owned development of internal CRM tools and spearheaded Qube Direct — a utilit
 | <u>Lead Developer</u>                           | _Sept 2019 – Apr 2020_ |
 | <u>Developer</u>                                | _Jul 2017 – Sept 2019_ |
 
-Developed bespoke digital solutions for SMEs, primarily using Laravel and VueJS. Led projects across web, VoIP (FreePBX), and hybrid mobile app domains. The agency later merged into W8R Ltd.
+Delivered digital solutions for SMEs, primarily using Laravel and VueJS. Later merged into W8R Ltd.
 
-- Delivered tailored web applications, improving client workflows and user engagement.
-- Built and deployed cross-platform mobile apps with Cordova for iOS and Android.
+- Developed custom web apps, mobile apps (Cordova), and VoIP integrations using FreePBX.
+- Helped clients modernize their digital presence and improve customer engagement.
 
 ## Education
 
@@ -131,6 +127,23 @@ Developed bespoke digital solutions for SMEs, primarily using Laravel and VueJS.
 | -------------------------------------------------------------------------------------------------------------------------- | ------------------------------ |
 | **[Professional Scrum Master™ I (PSM I)](https://www.credly.com/badges/40094e96-5e97-4468-8bf2-f5534b55dc9d/public_url)** |                                |
 | <u>Scrum.org</u>                                                                                                           | _Earned: Apr 2025 (No Expiry)_ |
+
+## Key Projects
+
+**Qube Direct** – Utility SaaS platform  
+Led design and development of a pricing and electronic agreement tool that helped differentiate the company in a crowded market. Delivered MVP within 3 months.
+
+**AI Branding Pipeline** – Client @ EPAM Systems  
+Partnered with a large eCommerce client to deliver a machine learning solution for automating brand asset generation, reducing lead time by 80% and saving millions in manual effort.
+
+**Hospitality App Platform** – W8R Ltd  
+Led engineering of a multi-tenant mobile ordering solution, scaling to 700,000+ users across 500+ venues. Going from concept to launch within 4 months during Covid-19.
+
+## Tech Leadership
+
+- Delivered talks and workshops to both internal teams and clients at EPAM on topics including: design patterns in PHP/JavaScript, dependency injection, composition over inheritance, the testing pyramid, and scalable frontend/backend architecture.
+- Regularly mentor junior developers on architecture, coding best practices and DevOps principles.
+- Contributed to internal hiring frameworks and tech interview processes. 100+ interviews.
 
 ## Skills
 
