@@ -20,14 +20,14 @@ Newcastle Upon Tyne, England, UK
 
 </div>
 
-## Achievements
+## Career Highlights
 
-- 9+ years of professional experience as a Software Engineer, with over 6 years in a leadership role.
-- Led the development of hospitality software from idea to execution in 4 months, scaling up to 500+ venues with over 700,000 users.
-- Utilised machine learning algorithms to create a branding pipeline that saved the business millions.
-- Developed high-quality UI components that meet strict design requirements, with considerations for SEO, accessibility, and performance.
-- Won a Hackathon at EPAM Systems for contributions to an AI-driven healthcare project.
-- Performed in various local shows as a drummer with my band.
+- 9+ years of professional experience as a Software Engineer, including 6+ years in technical leadership roles.
+- Delivered a hospitality SaaS platform from concept to production in just 4 months, now used by 500+ venues and 700,000+ users.
+- Designed a machine learning-driven branding pipeline that saved millions in manual effort and design time.
+- Built SEO- and accessibility-optimized UI components for large-scale applications with stringent performance requirements.
+- Won a company-wide Hackathon at EPAM Systems for contributions to an AI-powered healthcare initiative.
+- Active performer and creative collaborator as a drummer in local music events and shows.
 
 ## Work Experience
 
@@ -36,18 +36,17 @@ Newcastle Upon Tyne, England, UK
 | **[Wordnerds.ai](https://www.wordnerds.ai)** |                      |
 | <u>Lead Software Engineer</u>                | _Jul 2024 – Present_ |
 
-At Wordnerds.ai, a platform focused on delivering qualitative text analytics for CX and Insight professionals, my role encompasses both leadership and hands-on engineering responsibilities, including:
+At Wordnerds.ai, a platform that empowers CX and Insights professionals with advanced text analytics, I lead engineering efforts across platform, data, and DevOps domains:
 
-- Designing and developing tools to enhance customer insight generation through advanced text analytics.
-- Building robust, scalable data pipelines for ingesting customer feedback from diverse sources.
-- Driving the adoption of modern frontend engineering standards and best practices across the team.
-- Leading the implementation of cloud-agnostic Infrastructure-as-Code (IaC) solutions, ensuring flexibility and scalability.
-- Implementing cloud observability solutions including monitoring, logging, and alerting to support operational excellence.
-- Introducing automation and code quality initiatives to streamline development workflows and improve reliability.
-- Guiding the engineering team in elevating SDLC practices, including testing strategies, code reviews, and continuous delivery.
-- Championing a culture of technical excellence and knowledge sharing through mentoring and process improvement.
+- Designed and delivered tools that extract actionable insights from qualitative feedback.
+- Built scalable, cloud-native pipelines to ingest and process unstructured data from multiple sources.
+- Advocated for and implemented modern frontend engineering standards to improve consistency, testing, and maintainability.
+- Delivered cloud-agnostic Infrastructure-as-Code solutions using industry-standard tools and patterns.
+- Introduced observability practices, including cloud-based logging, monitoring, and alerting, to enhance system reliability and visibility.
+- Led adoption of automation and code quality tooling across CI/CD pipelines.
+- Mentored team members and helped mature engineering practices across SDLC, testing, and delivery.
 
-My focus at Wordnerds is to empower teams to build smarter, more maintainable systems that deliver high-impact insight to end users.
+My focus is on empowering teams to deliver maintainable, scalable systems while fostering a culture of technical excellence.
 
 |                                          |                       |
 | ---------------------------------------- | --------------------- |
@@ -85,73 +84,62 @@ My efforts at W8R centered on delivering superior software solutions that added 
 |                                                            |                       |
 | ---------------------------------------------------------- | --------------------- |
 | **[The Utility Supplier](https://theutilitysupplier.com)** |                       |
-| <u>Technical Consultant</u>                                | _Apr 2020 - Aug 2021_ |
+| <u>Technical Consultant</u>                                | _Apr 2020 – Aug 2021_ |
 
-The Utility Supplier is a commercial energy broker that helps UK businesses manage their utilities, saving them time and money every day. During my time at The Utility Supplier, I was responsible for:
+Supported and led in-house software initiatives at a commercial energy broker. Focus areas included:
 
-- Supporting the continuation of service and development of current and future in-house utility projects, ensuring that the technology met the needs of our clients and was scalable, secure, and easy to use.
-- Creating and implementing the strategic development plan for the software and/or server infrastructure, working closely with the senior leadership team to ensure that our technology was aligned with the company's goals and objectives.
-- Providing additional leadership support, mentoring team members and providing guidance to ensure that they were equipped to handle complex challenges and deliver high-quality work.
-- Training the in-house development team, providing coaching and feedback to improve their skills and knowledge and helping to foster a culture of continuous learning and improvement.
-
-My work at The Utility Supplier was focused on delivering high-quality technology solutions that helped our clients take control of their utilities and save money every day. Through my leadership and technical expertise, we were able to achieve significant improvements to the company's technology infrastructure and development capabilities.
+- Shaping and executing strategic development plans for scalable, secure internal platforms.
+- Mentoring the dev team and fostering a culture of continuous learning and high standards.
+- Advising leadership on aligning tech direction with business objectives.
 
 |                  |                       |
 | ---------------- | --------------------- |
-| <u>Developer</u> | _Feb 2019 - Apr 2020_ |
+| <u>Developer</u> | _Feb 2019 – Apr 2020_ |
 
-At The Utility Supplier, I was responsible for building and supporting a range of services within their CRM system, including integration with external APIs such as eSignature software and various utility data tools. In addition, I planned and built their sister company's utility SaaS platform, Qube Direct, which featured a range of automated and bespoke pricing tools, electronic agreement software, and business support tools.
+Owned development of internal CRM tools and spearheaded Qube Direct — a utility SaaS platform offering automated pricing and agreement solutions.
 
-Some of my specific achievements during this role included:
-
-- Developing custom APIs and integrations that allowed The Utility Supplier to streamline their workflow and better serve their clients. By building these integrations, I was able to save the company significant time and money, while also providing a better user experience for clients.
-- Planning and executing the launch of the sister company's utility SaaS platform, working closely with stakeholders to ensure that the platform met their needs and delivered tangible value. As part of this work, I designed and implemented a range of bespoke pricing tools, which helped the company to stand out in a crowded market and win new business.
-- Collaborating with internal and external teams to ensure that all projects were delivered on time and to a high standard. This involved providing guidance and support to junior team members, as well as communicating effectively with stakeholders to ensure that everyone was on the same page.
+- Built custom APIs and integrated third-party services to streamline operations.
+- Launched Qube Direct from concept to MVP, enabling sales automation and market differentiation.
 
 |                                                 |                        |
 | ----------------------------------------------- | ---------------------- |
 | **[Codeplayground.io](https://codeplayground)** |                        |
-| <u>Lead Developer</u>                           | _Sept 2019 - Apr 2020_ |
+| <u>Lead Developer</u>                           | _Sept 2019 – Apr 2020_ |
+| <u>Developer</u>                                | _Jul 2017 – Sept 2019_ |
 
-|                  |                        |
-| ---------------- | ---------------------- |
-| <u>Developer</u> | _Jul 2017 - Sept 2019_ |
+Developed bespoke digital solutions for SMEs, primarily using Laravel and VueJS. Led projects across web, VoIP (FreePBX), and hybrid mobile app domains. The agency later merged into W8R Ltd.
 
-I worked at a web agency which later merged into W8R Ltd in April 2020.
-
-During my tenure, I was responsible for building and implementing digital solutions for small businesses. This involved building bespoke web applications using PHP and Javascript, specifically within the Laravel and VueJS frameworks.
-I also provided communication solutions using FreePBX and built cross-platform Android and iOS applications using Cordova.
-
-My work helped businesses enhance their online presence and improve customer engagement.
+- Delivered tailored web applications, improving client workflows and user engagement.
+- Built and deployed cross-platform mobile apps with Cordova for iOS and Android.
 
 ## Education
 
 |                                                         |                  |
 | ------------------------------------------------------- | ---------------- |
-| **BSc (Honours) Computing and IT, The Open University** | _2015 - Ongoing_ |
+| **BSc (Honours) Computing and IT, The Open University** | _2015 – Present_ |
 
-- Started in 2015 as Part Time Student, taking sabbatical to focus on career.
+- Part-time study alongside full-time career. Currently on sabbatical to focus on professional growth.
 
 ## Certifications
 
-|                                                                                                                                      |                       |
-| ------------------------------------------------------------------------------------------------------------------------------------ | --------------------- |
-| **[Certified ScrumMaster® (CSM-1)](https://certification.scrumalliance.org/accounts/1745928-ray-blair/certifications/2068251-csm)** |                       |
-| <u>Scrum Alliance</u>                                                                                                                | _Apr 2025 - Apr 2027_ |
+|                                                                                                                                      |                              |
+| ------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------- |
+| **[Certified ScrumMaster® (CSM-1)](https://certification.scrumalliance.org/accounts/1745928-ray-blair/certifications/2068251-csm)** |                              |
+| <u>Scrum Alliance</u>                                                                                                                | _Valid: Apr 2025 – Apr 2027_ |
 
-|                                                                                                                            |            |
-| -------------------------------------------------------------------------------------------------------------------------- | ---------- |
-| **[Professional Scrum Master™ I (PSM I)](https://www.credly.com/badges/40094e96-5e97-4468-8bf2-f5534b55dc9d/public_url)** |            |
-| <u>Scrum.org</u>                                                                                                           | _Apr 2025 - Forever_ |
+|                                                                                                                            |                                |
+| -------------------------------------------------------------------------------------------------------------------------- | ------------------------------ |
+| **[Professional Scrum Master™ I (PSM I)](https://www.credly.com/badges/40094e96-5e97-4468-8bf2-f5534b55dc9d/public_url)** |                                |
+| <u>Scrum.org</u>                                                                                                           | _Earned: Apr 2025 (No Expiry)_ |
 
 ## Skills
 
-**Languages and Tools:** Apache, BitBucket, CapacitorJS, ChatGPT, Composer, Cordova, CSS, FreePBX, Kafka, Git, GitHub, HTML, Javascript, Jenkins, Langchain, Nginx, Node.js, NPM, Pinia, PHP, PHPUnit, Python, RabbitMQ, Redis, Vue.js Router, Vite, Webpack, Yarn.
+**Languages & Tools:** PHP, Javascript, Python, HTML, CSS, Bash, SQL, Git, Composer, NPM, Yarn, pip, Webpack, Vite, ChatGPT, CapacitorJS, Cordova, FreePBX.
 
-**Frameworks:** Bootstrap, Express.js, jQuery, Laravel, Next.js, Nuxt.js, React.js, SlimPHP, Solid.js, Symfony, Tailwind CSS, Vue.js.
+**Frameworks & Libraries:** Laravel, Symfony, SlimPHP, Vue.js, Vue Router, React.js, Next.js, Nuxt.js, Solid.js, Bootstrap, Tailwind CSS, jQuery, Express.js.
 
-**Data:** Algolia, Datadog, Elasticsearch, Kibana, Google Big Query, Grafana, MariaDB, MongoDB, MySQL, SQL, Postgres, VectorDB.
+**Data & Analytics:** Algolia, Elasticsearch, Kibana, Grafana, Google BigQuery, MariaDB, MongoDB, MySQL, Postgres, Redis, VectorDB, Datadog.
 
-**DevOps / Server Administration:** AWS, Azure, AzureDevOps, Bash, Containerization, CI/CD, DigitalOcean, Docker, GCP, Github Actions, Jira, Linux, MacOS, Microsoft Windows, pip, Raspberry PI, Serverless, SSH, Ubuntu, Vagrant.
+**DevOps & Infrastructure:** AWS, GCP, Azure, Docker, Serverless, DigitalOcean, Vagrant, Azure DevOps, GitHub Actions, Jenkins, Linux, SSH, Raspberry Pi, Ubuntu, MacOS, Microsoft Windows.
 
-**Softskills:** Agile, Artifical Intelligence, Design Patterns, Domain-Driven Design (DDD), Event-Driven Architecture, Event Sourcing, Leadership, Mentoring, Project Management, Scrum, Software Architecture, Security, Software Design, Test-Driven Development (TDD).
+**Soft Skills:** Agile, Scrum, Project Management, Leadership, Mentoring, Test-Driven Development (TDD), Domain-Driven Design (DDD), Software Architecture, Security, Event Sourcing, Event-Driven Architecture, Design Patterns, Artificial Intelligence.
